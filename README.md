@@ -39,7 +39,7 @@ A single hybrid approach does not transfer equally well across different risk ty
 
 ## Dataset
 
-DataCo Smart Supply Chain Dataset via Kaggle.
+DataCo Smart Supply Chain Dataset via mendeley.
 
 ## Stack
 
