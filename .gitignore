@@ -7,3 +7,21 @@ data/
 *.xlsx
 *.xlsb
 .DS_Store
+
+
+# Word temp/lock files
+~$*
+
+# Dissertation drafts and exports
+Kayode_Williams_20068005_Dissertation.docx
+Kayode_williams_20068005_dissertation.zip
+Kayode_williams_20068005_dissertation/
+Questions & Answers.docx
+research_proposal_kayode_williams_2.docx
+references_draft.md
+
+# Scratch notebooks and one-off scripts
+fix_notebook_source.py
+supply_chain_dataset_v2.ipynb
+supply_chain_dataset_v3.ipynb
+test.ipynb
